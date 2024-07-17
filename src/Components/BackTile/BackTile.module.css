@@ -1,0 +1,11 @@
+.dimenstion{
+    background-color: #414141;
+    height: 525px;
+    width: 400px;
+    margin-top: 20px;
+    border-radius: 50px;
+    overflow: hidden;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
